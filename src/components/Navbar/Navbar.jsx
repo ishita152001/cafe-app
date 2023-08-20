@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={images.gericht} alt="" />
+        <img src={images.grandeur} alt="" />
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans">

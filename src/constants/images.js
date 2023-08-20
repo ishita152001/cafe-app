@@ -22,6 +22,7 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import simpace from '../assets/simpace.png';
 import grandy from '../assets/grandy.png'
+import grandeur from '../assets/grandeur.png'
 
 export default {
   bg,
@@ -47,4 +48,5 @@ export default {
   quote,
   gericht,
   simpace,
+  grandeur,
 };
